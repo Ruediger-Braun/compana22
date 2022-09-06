@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# nikola
+doit.db.bak
+.doit.db.dat
+.doit.db.dir
+cache/
+output/
+state_data.json
+themes/
+.doit.db.bak
+
