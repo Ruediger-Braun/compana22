@@ -36,7 +36,7 @@ Eine bequeme Installationsmethode bietet
 `conda <http://conda.pydata.org>`__. Detaillierte
 Installationsanleitungen_ stehen zur Verfügung:
 
-.. _Installationsanleitungen: link://slug/installation
+.. _Installationsanleitungen: http://www.math.uni-duesseldorf.de/~internet/compana22/pages/installation/
 
 Vorlesung
 ---------

@@ -29,10 +29,10 @@ Links:
 * `Installationsanleitung für Anaconda unter Linux`_
 * es gibt ebenfalls Installer für Apple, und zwar sowohl für Intel als auch für ARM; diese konnte ich aber nicht ausprobieren; orientieren Sie sich bitte an den beiden anderen Anleitungen
 
-.. _`Installationsanleitung für Anaconda unter MS-Windows`: link://slug/installationsanleitung-fur-anaconda-unter-ms-windows
-.. _`Installationsanleitung für Anaconda unter Linux`: link://slug/installationsanleitung-fur-anaconda-unter-linux
+.. _`Installationsanleitung für Anaconda unter MS-Windows`: http://www.math.uni-duesseldorf.de/~internet/compana22/pages/installationsanleitung-fur-anaconda-unter-ms-windows
+.. _`Installationsanleitung für Anaconda unter Linux`: http://www.math.uni-duesseldorf.de/~internet/compana22/pages/installationsanleitung-fur-anaconda-unter-linux
 
-minioconda
+miniconda
 ==========
 
 Vorteile
@@ -50,8 +50,8 @@ Links:
 * `Installationsanleitung für miniconda unter Linux`_
 * leider steht mir kein Apple zur Verfügung, die Lektüre der beiden anderen Anleitungen sollte aber gute Anhaltspunkte liefern
 
-.. _`Installationsanleitung für miniconda unter MS-Windows`: link://slug/installationsanleitung-fur-miniconda-unter-ms-windows
-.. _`Installationsanleitung für miniconda unter Linux`: link://slug/installationsanleitung-fur-miniconda-unter-linux
+.. _`Installationsanleitung für miniconda unter MS-Windows`: http://www.math.uni-duesseldorf.de/~internet/compana22/pages/installationsanleitung-fur-miniconda-unter-ms-windows
+.. _`Installationsanleitung für miniconda unter Linux`: http://www.math.uni-duesseldorf.de/~internet/compana22/pages/installationsanleitung-fur-miniconda-unter-linux
 
 
 
