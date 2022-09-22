@@ -64,12 +64,10 @@ verteilt.
 Übungspunkte
 ------------
 
-Jeden Donnerstag wird ein Übungsblatt herausgegeben.  Die Bearbeitungen werden
-am darauf folgenden Donnerstag im ILIAS im Unterabschnitt der jeweiligen
-Gruppe elektronisch abgegeben.  In der nächsten Übungsstunde müssen die
-Studierenden ihre Lösung der Übungsleitung präsentieren; wenn die Lösung im
-wesentlichen richtig ist, gibt es den Punkt.  Die Übungsleitung kann
-Nachbesserungen verlangen.
+Jeden Donnerstag wird ein Übungsblatt herausgegeben.  In der nächsten
+Übungsstunde müssen die Studierenden ihre Lösung der Übungsleitung
+präsentieren; wenn die Lösung im wesentlichen richtig ist, gibt es den Punkt.
+Die Übungsleitung kann Nachbesserungen verlangen.
 
 Die ersten 6 Blätter bilden die erste, die zweiten 6  Blätter die zweite Hälfte
 des Kurses.  An der Klausur kann nur teilnehmen, wer in jedem der beiden Teile
