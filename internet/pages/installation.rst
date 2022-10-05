@@ -19,7 +19,7 @@ Vorteile
 
 Nachteile
 
-* telefoniert bei jedem Start nach Hause, um Updates anzufragen
+* telefoniert bei jedem Start nach Hause, um Updates anzufragen; die Bitte um Registrierung kann aber abgelehnt werden
 * Download 1GB
 * benötigt manchmal sehr viel Arbeitsspeicher
 
@@ -37,7 +37,7 @@ miniconda
 
 Vorteile
 
-* nur notwendige Bestandteile werden geladen
+* nur notwendige Bestandteile werden geladen; bei Verwendung des VPN_-Tunnels besteht Anonymität gegenüber dem Anbieter (Sonst kennt der Anbieter die Internet-Adresse, das erscheint mir persönlich okay)
 * Verbindung zum Hersteller nur während Installationsvorgängen
 
 Nachteile
@@ -52,6 +52,6 @@ Links:
 
 .. _`Installationsanleitung für miniconda unter MS-Windows`: http://www.math.uni-duesseldorf.de/~internet/compana22/pages/installationsanleitung-fur-miniconda-unter-ms-windows
 .. _`Installationsanleitung für miniconda unter Linux`: http://www.math.uni-duesseldorf.de/~internet/compana22/pages/installationsanleitung-fur-miniconda-unter-linux
-
+.. _VPN: https://www.zim.hhu.de/servicekatalog/netze/vpn
 
 
