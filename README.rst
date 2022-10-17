@@ -45,6 +45,22 @@ Die Vorlesung findet statt
 
 * Do, 10:30-11:15, im Hörsaal 5E
 
+Die Dateien zur Vorlesung finden Sie auf `Github
+<https://github.com/Ruediger-Braun/compana22>`__ mit allem Komfort, aber auf
+einer US-Seite.  Lesen Sie also vorher die `Datenschutzregeln von github
+<https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices>`__.
+
+Alternativ finden Sie sie auch hier
+
+* Quelltexte
+
+  - `Lektion 01 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion01.ipynb>`__
+
+* pdf-Dateien
+
+  - `Lektion 01 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion01.pdf>`__
+
+
 Übungsgruppen
 -------------
 
