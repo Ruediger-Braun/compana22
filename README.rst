@@ -77,9 +77,11 @@ verteilt.
 Übungsblätter
 -------------
 
+* `Blatt 2`_
 * `Blatt 1`_
 
 .. _`Blatt 1`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt1.pdf
+.. _`Blatt 2`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt2.pdf
 
 
 Übungspunkte
