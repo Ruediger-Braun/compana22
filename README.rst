@@ -55,10 +55,14 @@ Alternativ finden Sie sie auch hier
 * Quelltexte
 
   - `Lektion 01 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion01.ipynb>`__
+  - `Lektion 02 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion02.ipynb>`__
+  - `Lektion 03 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion03.ipynb>`__
 
 * pdf-Dateien
 
   - `Lektion 01 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion01.pdf>`__
+  - `Lektion 02 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion02.pdf>`__
+  - `Lektion 03 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion03.pdf>`__
 
 
 Übungsgruppen
@@ -77,11 +81,13 @@ verteilt.
 Übungsblätter
 -------------
 
-* `Blatt 2`_
 * `Blatt 1`_
+* `Blatt 2`_
+* `Blatt 3`_
 
 .. _`Blatt 1`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt1.pdf
 .. _`Blatt 2`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt2.pdf
+.. _`Blatt 3`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt3.pdf
 
 
 Übungspunkte
