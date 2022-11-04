@@ -58,11 +58,11 @@ Alternativ finden Sie sie auch hier
   - `Lektion 02 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion02.ipynb>`__
   - `Lektion 03 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion03.ipynb>`__
 
-* pdf-Dateien
+* HTML-Dateien
 
-  - `Lektion 01 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion01.pdf>`__
-  - `Lektion 02 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion02.pdf>`__
-  - `Lektion 03 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion03.pdf>`__
+  - `Lektion 01 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion01.html>`__
+  - `Lektion 02 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion02.html>`__
+  - `Lektion 03 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion03.html>`__
 
 
 Übungsgruppen
