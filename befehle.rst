@@ -8,6 +8,9 @@ Computergestützte Mathematik zur Analysis
 Übersicht über die verwendeten Befehle, nach Lektionen geordnet
 -------------------------------------------------------------------
 
+Inhaltsverzeichnis
+==================
+
 .. contents:: Inhaltsverzeichnis
 
 Lektion 1
@@ -295,7 +298,7 @@ Boolesche Operatoren
 
 +   ``&``, ``|``, ``~``
 
-    Operatoren "und", "oder" bzw. "nicht" bei Anwendung auf Symbole (für Wahrheitswerte gibt es noch ``and``, ``or`` und ``not``
+    Operatoren "und", "oder" bzw. "nicht" bei Anwendung auf Symbole (für Wahrheitswerte gibt es noch ``and``, ``or`` und ``not``)
 
 Fallunterscheidungen
 ====================
@@ -306,7 +309,7 @@ Fallunterscheidungen
 
 zurück zum Inhaltsverzeichnis_
 
-.. Verwandlung in html:  pandoc -s -o befehle.html --toc befehle.rst 
+.. Verwandlung in html:  pandoc --embed-resources --standalone -o befehle.html --toc befehle.rst 
 
 
 
