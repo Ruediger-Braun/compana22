@@ -64,6 +64,10 @@ Alternativ finden Sie sie auch hier
   - `Lektion 02 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion02.html>`__
   - `Lektion 03 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion03.html>`__
 
+Ich versuche auch, eine Liste_ der bisher besprochenen Funktionen und Methoden aktuell zu halten.
+
+.. _Liste: http://www.math.uni-duesseldorf.de/~braun/compana22/befehle.html
+
 
 Übungsgruppen
 -------------
