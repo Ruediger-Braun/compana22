@@ -311,5 +311,201 @@ zurück zum Inhaltsverzeichnis_
 
 .. Verwandlung in html:  pandoc --embed-resources --standalone -o befehle.html --toc befehle.rst 
 
+Lektion 4
+*********
 
+Listen und Arrays
+=================
+
++   ``[]``
+
+    Liste
+
++   ``append``
+
+    anhängen an Liste
+
++   ``len``
+    
+    Länge einer Liste oder einer anderen Kollektion 
+
++   ``del``
+
+    entfernen eines Listenelements
+    
++   ``import numpy as np``
+
+    Import der Grundbibliothek zur Numerik
+
++   ``np.array``
+
+    Array 
+
++   ``init_printing``
+
+    Listensatz mit LaTeX
+
++   ``dtype``
+
+    Typ der Elemente eines Arrays
+
+Schleifen
+=========
+
++   ``range``
+
+    konsekutiver Bereich ganzer Zahlen
+
++   ``list``
+
+    Umwandlung in Liste
+
++   ``for``
+
+    Schleife (Schleifenkörper wird eingerückt
+
+Verzweigungen
+=============
+
++   ``if``, ``elif``, ``else``
+
+    Verzweigung
+
+Dictionary
+==========
+
++   ``{}``
+
+    Assoziativer Speicher, dictionary
+
++   *a*``[``*key*``]``
+
+    Element von *a* zum Schlüssel *key*
+
++   ``{}``
+
+    Menge 
+
++   ``set()``
+
+    leere Menge
+
++   ``|``, ``&``, ``-``
+
+    Vereinigung, Durchschnitt und Mengendifferenz
+
++   ``in``
+
+    Test auf Nitgliedschaft
+
++   ``add``
+
+    Hinzufügen eines Elements
+
+Polynome
+========
+
++   ``degree``
+
+    Grad
+
++   ``coeff``
+
+    Koeffizient
+
++   ``args``
+
+    Argumente eines Ausdrucks
+
+zurück zum Inhaltsverzeichnis_
+
+Lektion 5
++++++++++
+
+Funktionen
+==========
+
++   ``def``
+
+    Definition einer Funktion (Funktionskörper wird eingerückt)
+
+Mathematische Funktion vs. Programmfunktion
+===========================================
+
++   ``lambdify``
+
+    Verwandlung eines Sympy-Ausdrucks in eine Funktion
+
+Einfache Plots von Ausdrücken
+=============================
+
++   ``plot``
+
+    Plot
+
++   ``legend``, ``show``
+
+    Methoden eines Plots
+
+Lösungen von Gleichungen
+========================
+
++   ``Eq``
+
+    Gleichung
+
++   ``solve``
+
+    Lösung
+
+
++   ``raise``
+
+    Auslösung einer Fehlerbedingung (exception)
+
+Sympy rechnet komplex
+=====================
+
++   ``I``
+
+    imaginäre Einheit
+
++   ``re``, ``im``
+
+    Real- und Imaginärteil (symbolisch)
+
++   ``conjugate``
+
+    konjugiert komplexe Zahl
+
++   ``expand(complex=True)``
+
+    Ausmultiplikation unter Berücksichtung der Regeln für Real- und Imaginärteil komplexer Zahlen
+
+Mengen von Nullstellen
+======================
+
++   ``solveset``
+
+    Lösung von Gleichungen und Ungleichungen, Rückgabe als Menge
+
++   ``zip``
+
+    Verschmelzung zweier Folgen zu einer Folge von Paaren
+
+zurück zum Inhaltsverzeichnis_
+
+
+.. Verwandlung in html:  pandoc --embed-resources --standalone -o befehle.html --toc befehle.rst 
+
+   
+
+
+
+
+
+
+
+
+ 
 
