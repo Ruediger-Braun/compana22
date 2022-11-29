@@ -94,12 +94,14 @@ verteilt.
 * `Blatt 3`_
 * `Blatt 4`_
 * `Blatt 5`_
+* `Blatt 6`_
 
 .. _`Blatt 1`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt1.pdf
 .. _`Blatt 2`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt2.pdf
 .. _`Blatt 3`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt3.pdf
 .. _`Blatt 4`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt4.pdf
 .. _`Blatt 5`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt5.pdf
+.. _`Blatt 6`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt6.pdf
 
 
 Übungspunkte
