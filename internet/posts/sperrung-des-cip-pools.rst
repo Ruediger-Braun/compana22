@@ -13,7 +13,7 @@ Rechnern zur Verfügung.  Der Raum 25.22.O2.46 hat leider nur 4 Plätze, daher
 können dort nur Studierende arbeiten, die keinen eigenen Laptop haben.  Leute
 mit eigenem Laptop nutzen bitte eins der Angebote in der zweiten Spalte. 
 
-Mittwochs im 10:30 ist leider nichts frei.
+Mittwochs im 10:30 ist leider nichts frei.  Wir können aber von 12:30 bis 14:00 eine Übung in Raum 25.22.O0.72 anbieten.
 
 .. class:: table
 
@@ -23,6 +23,8 @@ Mittwochs im 10:30 ist leider nichts frei.
 |     1|Di 12:30-14|25.22.O0.72   |25.22.O2.46        |
 +------+-----------+--------------+-------------------+
 |     2|Mi 10:30-12|  ./.         |25.22.O2.46        |
++------+-----------+--------------+-------------------+
+|     2|Mi 12:30-14|25.22.O0.72   |   ./.             |
 +------+-----------+--------------+-------------------+
 |     4|Do 12:30-14|25.22.U1.33   |25.22.O2.46        |
 +------+-----------+--------------+-------------------+
