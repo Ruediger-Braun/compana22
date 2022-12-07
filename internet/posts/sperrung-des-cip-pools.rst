@@ -1,6 +1,6 @@
 .. title: Sperrung des CIP-Pools
 .. slug: sperrung-des-cip-pools
-.. date:    2022-12-05 22:15
+.. date: 2022-12-07 14:37
 .. tags: 
 .. category: 
 .. link: 
@@ -13,7 +13,10 @@ Rechnern zur Verfügung.  Der Raum 25.22.O2.46 hat leider nur 4 Plätze, daher
 können dort nur Studierende arbeiten, die keinen eigenen Laptop haben.  Leute
 mit eigenem Laptop nutzen bitte eins der Angebote in der zweiten Spalte. 
 
-Mittwochs im 10:30 ist leider nichts frei.  Wir können aber von 12:30 bis 14:00 eine Übung in Raum 25.22.O0.72 anbieten.
+Mittwochs im 10:30 ist leider nichts frei.  Wir können aber von 12:30 bis 14:00
+eine Übung in Raum 25.22.O0.72 anbieten.  
+
+Solange das Problem besteht, kann jede beliebige Gruppe besucht werden.
 
 .. class:: table
 
