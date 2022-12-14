@@ -138,3 +138,8 @@ state_data.json
 themes/
 .doit.db.bak
 
+# sonstige
+*.pdf
+*.html
+*.html.ori
+
