@@ -209,7 +209,7 @@ Grenzwerte
 
 +   ``zoo``
 
-    unendlich ferner Punkt $\tilde\infty$ der komplexen Ebene (d.h. $\tilde\infty = -\tilde\infty$)
+    unendlich ferner Punkt der komplexen Ebene  (die komplexe Ebene hat nur einen)
 
 +   ``print``
 
@@ -496,16 +496,144 @@ Mengen von Nullstellen
 zurück zum Inhaltsverzeichnis_
 
 
-.. Verwandlung in html:  pandoc --embed-resources --standalone -o befehle.html --toc befehle.rst 
-
    
 
+Lektion 6
++++++++++
+
+Nullstellen von Polynomen
+=========================
+
++   ``CRootOf``
+
+    Nullstelle eines irreduziblen Polynoms
+
++   ``minimal_polynomial``
+
+    Minimalpolynom
+
+Ungleichungen
+=============
+
++   ``Interval``
+
+    Intervall
+
++   ``EmptySet``
+
+    leere Menge als Element der Booleschen Mengenalgebra
+
+Die Lambertsche W-Funktion
+==========================
+
+Annahmen bei Integralen
+=======================
+
+Die Argumentfunktion
+====================
+
++   ``arg``
+
+    Argument einer komplexen Zahl
+
+Beispiel für ein Integral einer periodischen Funktion
+=====================================================
+
++   ``floor``, ``ceil``
+
+    größste ganze Zahl unterhalb und kleinste ganze Zahl oberhalb einer Zahl
+
+zurück zum Inhaltsverzeichnis_
+
+Lektion 7
++++++++++
+
+Weitere Integrale
+=================
+
+Summen
+======
+
++   ``Sum``
+
+    symbolische Summe
+
++   ``Abs``
+
+    symbolischer Absolutbetrag
+
++   ``zeta``
+
+    Riemannsche ζ-Funktion
+
+Zeichenketten
+=============
+
+Polarkoordinaten
+================
+
++   ``atan2``
+
+    Winkelanteil der Polarkoordinaten
+
+Potenzfunktionen
+================
+
+zurück zum Inhaltsverzeichnis_
+
+Lektion 8
++++++++++
+
+nutzergesteuerte trigonometrische Vereinfachungen
+=================================================
+
++   ``trigsimp``
+
+    trogonometrische Umformungen
+
++   ``count_ops``
+
+    Anzahl der Operatoren eines Ausdrucks
+
+Reihendarstellungen
+===================
+
++   ``series``
+
+    Reihenentwicklung
+
++   ``removeO``
+
+    Entfernung des O-Terms
+
++   ``O``
+
+    der O-Term
+
+Beispiel mit der Lambert-Funktion
+=================================
+
+Vektoren und Matrizen
+=====================
+
++   ``Matrix``
+
+    Matrix
+
++   ``row``, ``col``
+
+    Zugriff auf Zeilen und Spalten einer Matrix
+
+variable Vektoren
+=================
+
+zurück zum Inhaltsverzeichnis_
+
+.. Verwandlung in html:  pandoc --embed-resources --standalone -o befehle.html --toc befehle.rst 
 
 
 
 
 
 
-
- 
 
