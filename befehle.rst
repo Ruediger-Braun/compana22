@@ -629,11 +629,178 @@ variable Vektoren
 
 zurück zum Inhaltsverzeichnis_
 
+Lektion 9
++++++++++
+
+Spezielle Matrizen
+==================
+
++   ``eye``
+
+    Einheitsmatrix
+
++   ``ones``, ``zeros``
+
+    Matrix voller Einsen bzw. Nullen
+
++   ``diag``
+
+    Diagonalmatrix
+
+Operationen
+===========
+
++   ``det``
+
+    Determinante
+
++   ``inv``
+
+    Inverse
+
+Inspektion
+==========
+
++   ``shape``
+
+    Gestalt
+
+Slicing
+=======
+
+Kopien
+======
+
++   ``copy``
+
+    Kopie
+
++   ``deepcopy``
+
+    rekursive Kopie aller Elemente; muss aus ``copy`` importiert werden
+
+Manipulation von Matrizen
+=========================
+
++   ``T``
+
+    Transponierte
+
++   ``Matrix.hstack``, ``Matrx.vstack``
+
+    horizontal bzw. vertikal stapeln
+
++   ``reshape``
+
+    Gestalt ändern
+
++   ``flatten``
+
+    in (eindimensionale) Liste verwandeln
+
+Hilbertmatrizen
+===============
+
+Vergleich mit Numerik
+=====================
+
++   ``import numpy as np``
+
+    Import des grundelegenden Pakets für numerische Rechnung
+
++   ``np.empty``
+
+    leeres ``np.array``
+
++   ``np.linalg.det``
+
+    numerische Berechnug der Determinante
+
++   ``np.linalg.inv``
+
+    numerische Bestimmung des Inversen einer Matrix
+
+Rang einer Matrix
+=================
+
++   ``rank``
+
+    Rang
+
++   ``rref``
+
+    Zeilenstufenform
+
++   ``elementary_row_op``
+
+    elementare Zeilenumformungen
+
+zurück zum Inhaltsverzeichnis_
+  
+Lektion 10
+++++++++++
+
+Lineare Gleichungssysteme
+=========================
+
++   ``Eq(…, evaluate=False)``
+
+    Gleichung ohne sofortige Auswertung 
+
++   ``nullspace``
+
+    Kern einer Matrix
+
+Eigenwerte und Eigenvektoren
+============================
+
++   ``eigenvals``
+
+    Eigenwerte
+
++   ``eigenvects``
+
+    Eigenwerte und Eigenvektoren
+
+Jordanform
+==========
+
++   ``jordan_form``
+
+    Jordansche Normalform
+
+Normen von Vektoren und Matrizen
+================================
+
++   ``norm``
+
+    Norm
+
+Vektoranalysis
+==============
+
++   ``jacobian``
+
+    Jacobi-Matrix einer vektorwertigen Abbildung
+
++   ``hessian``
+
+    Hessesche Matrix
+
+Definitheitsverhalten
+=====================
+
++   ``is_positive_definite``, ``is_negative_definite``, ``is_indefinite``
+
+    Definitheitsverhalten
+    
+Extremwerte in mehreren Variablen
+=================================
+
+zurück zum Inhaltsverzeichnis_
+
+
+
 .. Verwandlung in html:  pandoc --embed-resources --standalone -o befehle.html --toc befehle.rst 
-
-
-
-
-
 
 

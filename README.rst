@@ -63,6 +63,7 @@ Alternativ finden Sie sie auch hier
   - `Lektion 07 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion07.ipynb>`__
   - `Lektion 08 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion08.ipynb>`__
   - `Lektion 09 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion09.ipynb>`__
+  - `Lektion 10 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion10.ipynb>`__
 
 * HTML-Dateien
 
@@ -75,6 +76,7 @@ Alternativ finden Sie sie auch hier
   - `Lektion 07 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion07.html>`__
   - `Lektion 08 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion08.html>`__
   - `Lektion 09 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion09.html>`__
+  - `Lektion 10 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion10.html>`__
 
 Ich versuche auch, eine Liste_ der bisher besprochenen Funktionen und Methoden aktuell zu halten.
 
