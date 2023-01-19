@@ -12,6 +12,8 @@ In den letzten beiden Wochen müssen einige Übungsgruppen ihren Raum nochmals w
 Woche vom 23.01. bis zum 27.01.2023
 -----------------------------------
 
+.. class:: table
+
 ====== =============== =========== ==========
 Gruppe Termin          Raum        
 ====== =============== =========== ==========
@@ -23,6 +25,8 @@ Gruppe Termin          Raum
 
 Woche vom 30.01. bis zum 03.02.2023
 -----------------------------------
+
+.. class:: table
 
 ====== =============== =========== ==========
 Gruppe Termin          Raum
