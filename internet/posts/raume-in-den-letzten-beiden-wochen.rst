@@ -1,6 +1,6 @@
 .. title: Räume in den letzten beiden Wochen
 .. slug: raume-in-den-letzten-beiden-wochen
-.. date: 2023-01-19 13:14:23 UTC+01:00
+.. date:    2023-01-26 09:52
 .. tags: 
 .. category: 
 .. link: 

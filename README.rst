@@ -65,6 +65,7 @@ Alternativ finden Sie sie auch hier
   - `Lektion 09 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion09.ipynb>`__
   - `Lektion 10 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion10.ipynb>`__
   - `Lektion 11 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion11.ipynb>`__
+  - `Lektion 12 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion12.ipynb>`__
 
 * HTML-Dateien
 
@@ -79,6 +80,7 @@ Alternativ finden Sie sie auch hier
   - `Lektion 09 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion09.html>`__
   - `Lektion 10 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion10.html>`__
   - `Lektion 11 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion11.html>`__
+  - `Lektion 12 <http://www.math.uni-duesseldorf.de/~braun/compana22/Lektion12.html>`__
 
 Ich versuche auch, eine Liste_ der bisher besprochenen Funktionen und Methoden aktuell zu halten.
 
@@ -113,6 +115,7 @@ verteilt.
 * `Blatt 10`_
 * `Blatt 11`_
 * `Blatt 12`_
+* `Blatt 13`_
 
 .. _`Blatt 1`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt1.pdf
 .. _`Blatt 2`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt2.pdf
@@ -126,6 +129,7 @@ verteilt.
 .. _`Blatt 10`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt10.pdf
 .. _`Blatt 11`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt11.pdf
 .. _`Blatt 12`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt12.pdf
+.. _`Blatt 13`: http://www.math.uni-duesseldorf.de/~braun/compana22/blatt13.pdf
 
 
 Übungspunkte
