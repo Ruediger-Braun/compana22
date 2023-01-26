@@ -799,6 +799,145 @@ Extremwerte in mehreren Variablen
 
 zurück zum Inhaltsverzeichnis_
 
+Lektion 11
+++++++++++
+
+3D-Plots mit sympy
+==================
+
++   ``plotting.plot3d``
+
+    einfacher 3D-Plot
+
+numpy und universal functions
+=============================
+
++   ``import numpy as np``
+
+    Import der Bibliothek
+
++   ``np.pi``
+
+    Kreiszahl (numerischer Wert)
+
++   ``np.array``
+
+    Sammlung von Daten (ähnlich wie Vektor bzw. Matrix)
+
++   ``np.ones_like``, ``np.zeros_like``
+
+    Array aus Einsen bzw. Nullen von derselben Gestalt und demselben Datentyp wie ein anderer Array
+
++   ``+``, ``-``, ``*``, ``/``
+
+    punktweise Operationen
+
++   ``@``
+
+    Matrixmultiplikation für Arrays
+
+Broadcasting
+============
+
++   ``np.zeros``, ``np.ones``
+
+    Array aus Nullen bzw. Einsen
+
++   ``np.eye``
+
+    Einheitsmatrix
+
++   ``reshape``
+
+    Änderung der Gestalt eines Arrays
+
+Vordefinierte Arrays
+====================
+
++   ``np.arange``
+
+    Array, der ein ``range`` enthält
+
++   ``np.linspace``
+
+    Array mit aquidistanten Punkten
+
+universal functions
+===================
+
++   ``np.sin``, ``np.cos``, ``np.exp``, ...
+
+    Numpy Implementierungen der elementaren Funktionen
+
+matplotlib
+==========
+
++   ``from matplotlib import pyplot as plt``
+
+    Import der Bibliothek
+
++   ``plt.plot``
+
+    2D-Plot
+
++   ``plt.legend``
+
+    Legende
+
+3D-Plots mit matplotlib
+=======================
+
++   ``from mpl_toolkits.mplot3d import Axes3D``
+
+    Zauberspruch zum Laden der 3D-Bibliothek
+
++   ``np.meshgrid``
+
+    macht aus einem *n*-Vektor und einem *m*-Vektor eine *m* x *n*-Matrix
+
++   ``shape``
+
+    Gestalt eines Arrays
+
++   ``plt.figure``
+
+    erzeugt ein leeres Bild
+
++   ``add_subplot``
+
+    erzeugt ein Koordinatensystem in einem Bild
+
++   ``add_subplot(..., projection='3s')``
+
+    erzeugt ein 3D-Koordinatensystem in einem Bild
+
+
++   ``plot_surface``
+
+    zeichnet Fläche in 3D
+
++   ``plt.save_fig``
+
+    speichert ein Bild
+
++   ``plot_wireframe``
+
+    zeichne Drahtmodell einer Fläche
+
++   ``view_init``
+
+    dreht Fläche im Raum
+
++   ``set_xticks``, ``set_yticks``, ``set_zticks``
+
+    setzt Marker an die Achsen
+    
+zurück zum Inhaltsverzeichnis_
+
+
+
+
+
 
 
 .. Verwandlung in html:  pandoc --embed-resources --standalone -o befehle.html --toc befehle.rst 
