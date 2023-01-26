@@ -922,7 +922,7 @@ matplotlib
 
 +   ``plot_wireframe``
 
-    zeichne Drahtmodell einer Fläche
+    zeichnet Drahtmodell einer Fläche
 
 +   ``view_init``
 
@@ -934,8 +934,83 @@ matplotlib
     
 zurück zum Inhaltsverzeichnis_
 
+Lektion 12
+++++++++++
 
+Farbkodierung
+=============
 
++   ``plt.imshow``
+
+    Darstellung einer Matrix durch Farb- oder Grauwerte
+
++   ``plt.title``
+
+    Titel
+
++   ``plt.colorbar``
+
+    Der Colorbar zeigt die Zuordnung von Farben zu Zahenwerten
+
++   ``plt.imread``
+
+    Einlesen eines Bildes, welches in einem gebräuchlichen Grafikformat abgespeichert ist
+
++   ``plt.axis``
+
+    Eigenschaften der Koordinatenachsen
+
+Plotverschönerung
+=================
+
++   ``set_xlabel``, ``set_ylabel``, ``set_zlabel`` 
+
+    Achsenbeschriftungen
+
++   ``set_xlim``, ``set_ylim``, ``set_zlim`` 
+
+    Einschränkung des angezeigten Bereichs
+
+Contourplots
+============
+
++   ``contour``
+
+    Zeichnen von Höhenlinien
+
++   ``np.concatenate``
+
+    Verheftung von Arrays
+
++   ``np.sort``
+
+    Sortieren
+
+Gewöhnliche Differentialgleichungen
+===================================
+
++   ``Function``
+
+    Variable, die eine mathematische Funktion darstellt
+
++   ``dsolve``
+
+    Lösung einer Differentialgleichungen
+
+Anfangswertaufgabe
+==================
+
+Das Richtungsfeld
+=================
+
++   ``quiver``
+
+    Köcher (von Pfeilen)
+
+Definitionsbereiche
+===================
+
+zurück zum Inhaltsverzeichnis_
 
 
 
