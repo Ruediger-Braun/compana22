@@ -1012,9 +1012,40 @@ Definitionsbereiche
 
 zurück zum Inhaltsverzeichnis_
 
+Lektion 13
+++++++++++
+
+Differentialgleichungen höherer Ordnung
+=======================================
+
+Besselfunktionen
+================
+
++   ``besselj``, ``bessely``
+
+    Besselfunktionen
+
+pattern matching
+================
+
++   ``Wild``
+
+    wild card (für replace)
+
++   ``replace``
+
+    fortgeschrittene Ersetzungsroutine, z.B. für wild cards
+
+gekoppelte Pendel
+=================
 
 
 
-.. Verwandlung in html:  pandoc --embed-resources --standalone -o befehle.html --toc befehle.rst 
+zurück zum Inhaltsverzeichnis_
+
+
+
+
+.. Verwandlung in html:  pandoc -c pandoc.css --embed-resources --standalone -o befehle.html --toc befehle.rst 
 
 
