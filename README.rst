@@ -174,6 +174,6 @@ Mathematik zur Analysis teilnehmen will.
 Prüfungstermine
 ---------------
 
-* Erste Klausur:  Di, 07.02.2023, Uhrzeit wird noch bekannt gegeben
+* Erste Klausur:  Di, 07.02.2023, 10:00-12:00
 * Zweite Klausur: Di, 28.03.2023, Uhrzeit wird noch bekannt gegeben
 
