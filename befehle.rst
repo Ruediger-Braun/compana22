@@ -1048,4 +1048,5 @@ zurück zum Inhaltsverzeichnis_
 
 .. Verwandlung in html:  pandoc -c pandoc.css --embed-resources --standalone -o befehle.html --toc befehle.rst 
 
+.. benötigt mindestens pandoc 2.19;  env pandoc benutzen
 
